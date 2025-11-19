@@ -17,7 +17,7 @@
 
 ---
 
-## 💻 Tech Stack (Organized List)
+## 💻 Tech Stack
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -72,6 +72,10 @@
 
 ## 📌 Featured Projects  
 
+### 🔹 **Portfolio Website**  
+Your personal portfolio site. Clean, responsive & fast.  
+🔗 https://github.com/Swapnilsanap7/swapnilsanap7.com
+
 ### 🔹 **SplitExpense Web**  
 A clean, modern expense-splitting UI built for simplicity.  
 🔗 https://github.com/Swapnilsanap7/splitexpense-web
@@ -83,10 +87,6 @@ Product filtering, search, cart (localStorage), & responsive UI.
 ### 🔹 **SentinelVision**  
 (Add 1–2 lines about what it does — e.g., real-time detection / CV / monitoring.)  
 🔗 https://github.com/Swapnilsanap7/SentinelVision
-
-### 🔹 **Portfolio Website**  
-Your personal portfolio site. Clean, responsive & fast.  
-🔗 https://github.com/Swapnilsanap7/swapnilsanap7.com
 
 ---
 
