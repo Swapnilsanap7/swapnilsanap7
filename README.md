@@ -108,5 +108,5 @@ Product filtering, search, cart (localStorage), & responsive UI.
 ---
 
 <p align="center">
-  ✨ *Thanks for visiting — feel free to explore my projects!* ✨  
+  ✨ Thanks for visiting — feel free to explore my projects! ✨  
 </p>
